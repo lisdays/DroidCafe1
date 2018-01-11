@@ -1,0 +1,7 @@
+#Sat Oct 21 20:58:35 ICT 2017
+base.0=C\:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_65b2b7a0c559f2a471548867f1822e81b592c593
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0513d6cbf3b0934271da665c4fe6dfe28af3e8bb\\classes.dex
+base.1=C\:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0513d6cbf3b0934271da665c4fe6dfe28af3e8bb
+file.0=C\:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_65b2b7a0c559f2a471548867f1822e81b592c593\\classes.dex

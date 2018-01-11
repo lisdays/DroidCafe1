@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Neng Lisda Yuni S\\.android\\build-cache\\d12b5b20732a540639137c23c6eedeb06a36c175\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

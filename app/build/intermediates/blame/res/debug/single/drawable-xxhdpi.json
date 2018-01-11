@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_status_white.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorites_white.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_white.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_map.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_fab_white.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_fab_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_order_white.png",
+        "source": "C:\\Users\\Neng Lisda Yuni S\\AndroidStudioProjects\\DroidCafe\\app\\src\\main\\res\\drawable-xxhdpi\\ic_order_white.png"
+    }
+]
